@@ -13,8 +13,8 @@ After reading this guide, you will know :
 DevOps is a language-agnostic concept, however learning the whole practices are really difficult
 unless you join a DevOps project. In this tutorial, you can learn about Continuous Delivery / Continuous Integration and Infrastructure as Code using Microsoft Azure and Visual Studio Online.
 
-1.1. Architecture
------------------
+### 1.1. Architecture
+
 You will use [PartsUnlimitedMRP]() application. It includes WebServer and API Server.
 You are going to create a build server and production server. These are Linux(Ubuntu) server. This application is created by Java / Javascript.
 
