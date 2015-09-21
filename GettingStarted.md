@@ -110,6 +110,12 @@ $ node agent/myagent
 Then change index.html on the Visual Studio Online.
 Build will automatically start for you.
 
+After deployment has been finished, see this url on your browser.
+
+```
+http://<production_server_name>.cloudapp.net:9080/mrp 
+```
+
 
 3. Additional information
 -------------------------
