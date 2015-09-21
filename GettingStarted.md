@@ -16,7 +16,7 @@ unless you join a DevOps project. In this tutorial, you can learn about Continuo
 ### 1.1. Architecture
 
 You will use [PartsUnlimitedMRP](https://github.com/Microsoft/PartsUnlimitedMRP) application. It includes WebServer and API Server.
-You are going to create a build server and production server. These are Linux(Ubuntu) servers. This application is written by Java / Javascript.
+You are going to create a build server and production server. These are Linux(Ubuntu) servers. This application is a Java / Javascript application.
 
 ![PartsUnlimitedMRP architecture](<media/PartsUnlimitedMRP-Overview.jpg>)
 
