@@ -18,6 +18,8 @@ unless you join a DevOps project. In this tutorial, you can learn about Continuo
 You will use [PartsUnlimitedMRP](https://github.com/Microsoft/PartsUnlimitedMRP) application. It includes WebServer and API Server.
 You are going to create a build server and production server. These are Linux(Ubuntu) servers. This application is written by Java / Javascript.
 
+![PartsUnlimitedMRP architecture](<media/PartsUnlimitedMRP-Overview.jpg>)
+
 
 If you change the PartsUnlimitedMRP, Visual Studio online will automatically detect the change then
 automatically build/test the PartsUnlimitedMRP on the bulid server. After the build has been finished,
