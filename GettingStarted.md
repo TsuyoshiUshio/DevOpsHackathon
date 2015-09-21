@@ -26,7 +26,7 @@ automatically build/test the PartsUnlimitedMRP on the bulid server. After the bu
 Visual Studio online deploy the apprication to the production server.
 
 
-If you want to try .NET application, you can use PartsUnlimited application.
+If you want to try .NET application, you can use [PartsUnlimited](https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStarted.md) application.
 
 2. Tutorial
 -----------
