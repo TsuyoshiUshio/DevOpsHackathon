@@ -15,7 +15,7 @@ unless you join a DevOps project. In this tutorial, you can learn about Continuo
 
 ### 1.1. Architecture
 
-You will use [PartsUnlimitedMRP]() application. It includes WebServer and API Server.
+You will use [PartsUnlimitedMRP](https://github.com/Microsoft/PartsUnlimitedMRP) application. It includes WebServer and API Server.
 You are going to create a build server and production server. These are Linux(Ubuntu) server. This application is created by Java / Javascript.
 
 
@@ -113,7 +113,7 @@ Build will automatically start for you.
 After deployment has been finished, see this url on your browser.
 
 ```
-http://<production_server_name>.cloudapp.net:9080/mrp 
+http://<production_server_name>.cloudapp.net:9080/mrp
 ```
 
 
