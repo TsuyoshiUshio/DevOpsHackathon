@@ -46,12 +46,12 @@ PartsUnlimitedMRPアプリケーションに変更を加えると、Visual Studi
 
 #### 2.1.1. Azure Pass
 
-Azure Passを使うと、Azureが使えるようになります。セットアップ手順は（ここに小塚さんの資料）をご覧ください
+Azure Passを使うと、Azureが使えるようになります。セットアップ手順は[AzurePass有効化手順](http://aka.ms/try-azurepass-jp)をご覧ください
 
 #### 2.1.2. Visual Studio Online
 
 Visual Studio Onlineを使うと、カンバンによるストーリやタスクの管理、CI/CDのビルド、リリースマネジメント（近日公開予定）、負荷テスト
-等を実施することができます。チームでこれを使えるようにするためには、次の手順が参考になるでしょう（小塚さんの資料）
+等を実施することができます。チームでこれを使えるようにするためには、次の手順が参考になるでしょう[MicrosoftDevOpsHackathon_VSO](http://1drv.ms/1GlvgC1)
 
 
 #### 2.1.3. Azure SDK(xPlat)
