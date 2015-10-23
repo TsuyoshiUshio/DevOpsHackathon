@@ -31,7 +31,7 @@ Microsoft AzureやVisual Studio Onlineを使いながら理解できるように
 PartsUnlimitedMRPアプリケーションに変更を加えると、Visual Studio Onlineが自動的に変更を検知して、ビルドサーバー上で自動的にビルド/テストを行います。ビルドサーバーにはVSOエージェントがインストールされています。ビルドが終了すると、Visual Studio Onlineは、プロダクションサーバーに
 アプリケーションをデプロイするようになっています。
 
-.NETのアプリケーションが必要な場合は、[PartsUnlimited](https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStarted.md)というアプリケーションを使うことができます。
+.NETのアプリケーションが必要な場合は、[PartsUnlimited(日本語)](https://onedrive.live.com/view.aspx?cid=286f38e26945ae87&page=view&resid=286F38E26945AE87!2824&parId=286F38E26945AE87!2821&authkey=!AF94yD02BzMuf9g&app=Word)[PartsUnlimited(英語)](https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStarted.md)というアプリケーションを使うことができます。
 
 
 2. チュートリアル
@@ -72,9 +72,7 @@ Linuxや、Macをビルドサーバとして使用したい場合は、VSO agent
 PartsUnlimitedMRPのアプリケーションを参考に、実際のビルドサーバを構築する手順は次のようになります。もし、自動で構築したいのなら、2.2.2.の手順を参考にしてください。
 継続的デリバリや継続的インテグレーションで用いられるビルドサーバは一般的にはデプロイ先と同じようなライブラリ、ミドルウェアなどをインストール・セッティングし、その上でビルドやテストが走るようにします。
 
-（日本語版）
-ここに、翻訳バージョンを入れる
-（英語の原文）
+（英語のみ）
 [Parts Unlimited MRP : HOL - Parts Unlimited MRP App Continuous Integration with Visual Studio Online Build](https://github.com/Microsoft/PartsUnlimitedMRP/blob/master/docs/HOL_Continuous-Integration-with-Visual-Studio-Online-Build/HOL_Continuous-Integration-with-Visual-Studio-Online-Build.md)
 
 #### 2.2.2. Chef Provisionを用いたBuildサーバの自動化手順 (オプション)
@@ -140,6 +138,7 @@ http://<production_server_name>.cloudapp.net:9080/mrp
 .NETアプリケーションを使いたい場合は、PartsUnlimitedを試しましょう。このハッカソンでは、aspnet45ブランチを使うことをお勧めします。
 
 [PartsUnlimited : Getting Started](https://github.com/Microsoft/PartsUnlimited/blob/master/docs/GettingStarted.md)
+[PartsUnlimited(日本語)](https://onedrive.live.com/view.aspx?cid=286f38e26945ae87&page=view&resid=286F38E26945AE87!2824&parId=286F38E26945AE87!2821&authkey=!AF94yD02BzMuf9g&app=Word)
 
 ### 3.2. FAQ
 
@@ -147,4 +146,5 @@ http://<production_server_name>.cloudapp.net:9080/mrp
 このFAQに皆さんも追記してみてください。日本語でも英語でも構いません。
 
 [DevOps hackathon FAQ](https://github.com/TsuyoshiUshio/DevOpsHackathon/wiki/FAQ)
+[DevOps ハッカソン FAQ](https://github.com/TsuyoshiUshio/DevOpsHackathon/wiki/FAQ_JP)
 
